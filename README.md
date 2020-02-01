@@ -8,4 +8,4 @@ I used the variables that showed some relationship with confirming an exoplanet 
 
 ![Epochs](https://github.com/janinewhite/machine-learning-challenge/blob/master/epoch%20accuracy%20and%20loss.png?raw=true)
 
-The slight increase in accuracy in TensorFlow would not encourage me to use that type of modeling over regression because it is var less understandable.  It does not easily provide an avenue for reducing complexity or data collection efforts, which can lead to increased costs.
+The slight increase in accuracy in TensorFlow would not encourage me to use that type of modeling over regression because it is var less understandable.  It does not easily provide an avenue for reducing data collection efforts or analysis complexity, which can lead to increased costs.
